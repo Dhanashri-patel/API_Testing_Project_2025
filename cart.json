@@ -1,0 +1,267 @@
+{
+  "carts": [
+    {
+      "id": "1",
+      "userId": 1,
+      "date": "2020-03-02",
+      "products": [
+        {
+          "productId": 1,
+          "quantity": 4
+        },
+        {
+          "productId": 2,
+          "quantity": 1
+        },
+        {
+          "productId": 3,
+          "quantity": 6
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "userId": 1,
+      "date": "2020-01-02",
+      "products": [
+        {
+          "productId": 2,
+          "quantity": 4
+        },
+        {
+          "productId": 1,
+          "quantity": 10
+        },
+        {
+          "productId": 5,
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "userId": 2,
+      "date": "2020-03-01",
+      "products": [
+        {
+          "productId": 1,
+          "quantity": 2
+        },
+        {
+          "productId": 9,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "userId": 3,
+      "date": "2020-01-01",
+      "products": [
+        {
+          "productId": 1,
+          "quantity": 4
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "userId": 2,
+      "date": "2020-02-15",
+      "products": [
+        {
+          "productId": 4,
+          "quantity": 3
+        },
+        {
+          "productId": 6,
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "userId": 4,
+      "date": "2020-02-20",
+      "products": [
+        {
+          "productId": 7,
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "userId": 5,
+      "date": "2020-03-05",
+      "products": [
+        {
+          "productId": 8,
+          "quantity": 1
+        },
+        {
+          "productId": 2,
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "userId": 3,
+      "date": "2020-03-07",
+      "products": [
+        {
+          "productId": 3,
+          "quantity": 7
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "userId": 1,
+      "date": "2020-03-10",
+      "products": [
+        {
+          "productId": 9,
+          "quantity": 2
+        },
+        {
+          "productId": 10,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "userId": 6,
+      "date": "2020-03-12",
+      "products": [
+        {
+          "productId": 5,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "userId": 10,
+      "date": "2026-05-06",
+      "products": [
+        {
+          "productId": 1,
+          "quantity": 2
+        },
+        {
+          "productId": 2,
+          "quantity": 3
+        },
+        {
+          "productId": 3,
+          "quantity": 4
+        }
+      ],
+      "id": "nH2hSJve6rE"
+    },
+    {
+      "userId": "4",
+      "date": "2025-11-26T08:59:46.395Z",
+      "products": [
+        {
+          "productId": "6",
+          "quantity": "5"
+        }
+      ],
+      "id": "ckIfAIvFzms"
+    },
+    {
+      "userId": "39",
+      "date": "2026-02-08T01:49:17.297Z",
+      "products": [
+        {
+          "productId": "2",
+          "quantity": "1"
+        }
+      ],
+      "id": "iN1uGqe3PD4"
+    },
+    {
+      "userId": 6,
+      "date": "2026-05-21",
+      "products": [
+        {
+          "productId": 5,
+          "quantity": 5
+        },
+        {
+          "productId": 1,
+          "quantity": 1
+        },
+        {
+          "productId": 7,
+          "quantity": 3
+        }
+      ],
+      "id": "1JzD_xgXvZo"
+    },
+    {
+      "userId": 4,
+      "date": "2026-05-21",
+      "products": [
+        {
+          "productId": 10,
+          "quantity": 5
+        },
+        {
+          "productId": 3,
+          "quantity": 3
+        },
+        {
+          "productId": 7,
+          "quantity": 2
+        }
+      ],
+      "id": "YSCpNmFBKqI"
+    },
+    {
+      "userId": 2,
+      "date": "2026-05-21",
+      "products": [
+        {
+          "productId": 8,
+          "quantity": 1
+        },
+        {
+          "productId": 6,
+          "quantity": 4
+        }
+      ],
+      "id": "z2N8F2tRb-I"
+    },
+    {
+      "userId": 21,
+      "date": "2026-05-21",
+      "products": [
+        {
+          "productId": 3,
+          "quantity": 1
+        },
+        {
+          "productId": 4,
+          "quantity": 1
+        }
+      ],
+      "id": "sbe9i0dUgbA"
+    },
+    {
+      "userId": 12,
+      "date": "2026-05-21",
+      "products": [
+        {
+          "productId": 8,
+          "quantity": 3
+        }
+      ],
+      "id": "FiMKJR7tPk0"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

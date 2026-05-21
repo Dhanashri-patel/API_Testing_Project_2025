@@ -1,0 +1,6 @@
+pytest -v -s --html=./reports/report_20th_May2026.html testcases\test_data_driven_products.py
+
+allure reports -
+pytest -v -s --alluredir=./reports/allure-results testcases\test_data_driven_products.py   
+allure generate ./reports\allure-results -o ./reports\allure-html --clean
+allure open ./reports\allure-html    
