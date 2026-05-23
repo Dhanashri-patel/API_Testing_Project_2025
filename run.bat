@@ -43,7 +43,7 @@ mkdir %ALLURE_HTML%
 
 echo Starting JSON Server...
 start /B json-server --watch product.json --port 3000
-
+start /B json-server --watch cart.json --port 3001
 
 :: ====================================================
 :: Step 6: Run Pytest tests
