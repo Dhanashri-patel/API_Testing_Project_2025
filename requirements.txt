@@ -11,5 +11,6 @@ jsonschema
 faker
 pytest-order
 openpyxl
+pytest-rerunfailures
 
 
