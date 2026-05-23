@@ -11,7 +11,7 @@ class TestCart:
 
     @pytest.fixture(autouse=True)
     def init_cls_var(self,setup):
-        self.base_url = setup["base_url"]
+        self.base_url = setup["cart_url"]
         self.config = setup["config_reader"]
         self.payload = Payload().cart_payload()
 

@@ -54,4 +54,4 @@ def setup():
 
     requests.Session.request = custom_request
 
-    yield {"base_url": Routes.Base_url, "config_reader": ReadConfig}
+    yield {"base_url": Routes.Base_url,"cart_url":Routes.Base_url_cart, "config_reader": ReadConfig}

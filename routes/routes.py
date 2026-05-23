@@ -1,6 +1,6 @@
 class Routes:
     Base_url="http://localhost:3000"
-
+    Base_url_cart = "http://localhost:3001"
     #Product Module routes
     Get_All_Products="/products"
     Get_Prod_By_Id="/products/{id}"
